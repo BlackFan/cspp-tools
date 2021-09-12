@@ -14,6 +14,6 @@ Match rules that passively detect vulnerable libraries even in minified JS code.
 JS script that highlights custom fields in prototypes and constructors that can be useful in exploiting Prototype Pollution.
 
 **Script:** [prototype_checker/prototype_checker.js](/prototype_checker/prototype_checker.js)  
-**Script Gadget Example:** TODO
+**Script Gadget Example:** [script.aculo.us XSS Script Gadget](https://github.com/BlackFan/client-side-prototype-pollution/blob/master/gadgets/scriptaculous.md)
 
 ![Screenshot at 18-34-30](https://user-images.githubusercontent.com/3295867/132973030-42b61f1c-f25d-451c-a034-1788d2fb0ff9.png)
