@@ -30,7 +30,7 @@ By adding a small script to it, you can replace all Burp Proxy HTTP responses wi
 * Customize your link in [POLLUTE_JS](burp_pollute/extension/BurpExtender.java#L10)
 * Build Burp Suite extension
 
-Now you can setup logging conditions in pollute.js PREAMBLE. For example, to search for **DOM Clobbering** gadgets, 
+Now you can setup logging conditions in pollute.js [PREAMBLE](burp_pollute/server/pollute.js#L13-L31). For example, to search for **DOM Clobbering** gadgets, 
 replace 
   
 `obj instanceof Object`  
