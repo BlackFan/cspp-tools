@@ -46,3 +46,5 @@ If you want to log access to properties only after **Prototype Pollution** has a
 and call the page with  
   
 `?__proto__[1337]=xxx`
+
+![Screenshot at 18-44-47](https://user-images.githubusercontent.com/3295867/134192810-cb32d3b5-7ec4-47c0-89c8-1976e128af41.png)
